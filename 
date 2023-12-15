@@ -1,0 +1,92 @@
+[33mcommit 87f91f672dd6aed08130066320ed4b878a57a511[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Santi <santividal.eko@gmail.com>
+Date:   Thu Dec 14 11:26:32 2023 +0100
+
+    Doom Clone movement and camera control
+
+.gitignore
+.vsconfig
+Assets/Animations.meta
+Assets/Animations/Animators.meta
+Assets/Animations/Animators/Main Camera.controller
+Assets/Animations/Animators/Main Camera.controller.meta
+Assets/Animations/Clips.meta
+Assets/Animations/Clips/CamIdle.anim
+Assets/Animations/Clips/CamIdle.anim.meta
+Assets/Animations/Clips/CamWalk.anim
+Assets/Animations/Clips/CamWalk.anim.meta
+Assets/CamIdle.anim
+Assets/CamIdle.anim.meta
+Assets/CamWalk.anim
+Assets/CamWalk.anim.meta
+Assets/First Person Player.controller
+Assets/First Person Player.controller.meta
+Assets/Materials.meta
+Assets/Materials/BaseColor.mat
+Assets/Materials/BaseColor.mat.meta
+Assets/Materials/Gray_Tileable_Demo_Texture.mat
+Assets/Materials/Gray_Tileable_Demo_Texture.mat.meta
+Assets/Materials/Player.mat
+Assets/Materials/Player.mat.meta
+Assets/Materials/SecondaryColor.mat
+Assets/Materials/SecondaryColor.mat.meta
+Assets/Readme.asset
+Assets/Readme.asset.meta
+Assets/Scenes.meta
+Assets/Scenes/Kangadoom.unity
+Assets/Scenes/Kangadoom.unity.meta
+Assets/Scripts.meta
+Assets/Scripts/FPSLimiter.cs
+Assets/Scripts/FPSLimiter.cs.meta
+Assets/Scripts/MouseLook.cs
+Assets/Scripts/MouseLook.cs.meta
+Assets/Scripts/PlayerMovementScript.cs
+Assets/Scripts/PlayerMovementScript.cs.meta
+Assets/Settings.meta
+Assets/Settings/SampleSceneProfile.asset
+Assets/Settings/SampleSceneProfile.asset.meta
+Assets/Settings/URP-Balanced-Renderer.asset
+Assets/Settings/URP-Balanced-Renderer.asset.meta
+Assets/Settings/URP-Balanced.asset
+Assets/Settings/URP-Balanced.asset.meta
+Assets/Settings/URP-HighFidelity-Renderer.asset
+Assets/Settings/URP-HighFidelity-Renderer.asset.meta
+Assets/Settings/URP-HighFidelity.asset
+Assets/Settings/URP-HighFidelity.asset.meta
+Assets/Settings/URP-Performant-Renderer.asset
+Assets/Settings/URP-Performant-Renderer.asset.meta
+Assets/Settings/URP-Performant.asset
+Assets/Settings/URP-Performant.asset.meta
+Assets/Textures.meta
+Assets/Textures/Gray_Tileable_Demo_Texture.png
+Assets/Textures/Gray_Tileable_Demo_Texture.png.meta
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/BurstAotSettings_StandaloneWindows.json
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/CommonBurstAotSettings.json
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/ShaderGraphSettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/URPProjectSettings.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/XRSettings.asset
